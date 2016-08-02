@@ -1,0 +1,33 @@
+body {
+	background-color:	#FFCCCC;
+	margin:auto;
+	width: 90%;
+	font-size: medium;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+	background-color: #4eb7cc;
+	border: 2px solid #000000;
+	width: 100%;
+	font-size: 80%;
+
+}
+
+.subtotal td {
+	text-align: right;
+	font-weight: bold;
+}
+
+.txt {
+	text-align: left;
+}
+
+.numr {
+	text-align: right;
+}
+
+.total td {
+	text-align: right;
+	font-weight: bold;
+}
